@@ -1,6 +1,6 @@
 # Shubham Patel - Portfolio
 
-Welcome to my portfolio! I am Shubham Patel, a skilled web developer with expertise in Angular, HTML5, HTML, JavaScript, Node.js, CSS, GitHub, and Hostinger. This portfolio showcases my best work in web development, including Angular websites, mobile apps, websites, and portfolios. I am passionate about creating responsive and user-friendly web experiences, and I am always open to collaboration opportunities.
+Welcome to the portfolio of Shubham Patel, a professional web developer who specialises in Angular, HTML5, HTML, JavaScript, Node.js, CSS, GitHub, and Hostinger. Explore a handpicked collection of my finest web development work, including Angular websites, mobile apps, websites, and portfolios. Contact me to discuss prospective collaborations or projects and to bring your concepts to reality.
 
 ## Technologies and Skills
 

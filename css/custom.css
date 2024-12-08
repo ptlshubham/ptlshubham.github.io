@@ -1,0 +1,7 @@
+.customtag {
+    text-decoration: none; /* Shows underline by default */
+}
+
+.customtag:hover {
+    text-decoration: none !important ;/* Removes underline on hover */
+}
